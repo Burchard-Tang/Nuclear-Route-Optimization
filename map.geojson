@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "Name": "Bruce Power" }, "geometry": { "type": "Point", "coordinates": [-81.57483, 44.318372] } },
+    { "type": "Feature", "properties": { "Name": "Pickering" }, "geometry": { "type": "Point", "coordinates": [-79.061188, 43.815166] } },
+    { "type": "Feature", "properties": { "Name": "Darlington" }, "geometry": { "type": "Point", "coordinates": [-78.724706, 43.869439] } },
+    { "type": "Feature", "properties": { "Name": "Chalk River" }, "geometry": { "type": "Point", "coordinates": [-77.43291206, 46.02255149] } },
+    { "type": "Feature", "properties": { "Name": "CNL Pinawa" }, "geometry": { "type": "Point", "coordinates": [-96.060923, 50.177626] } },
+    { "type": "Feature", "properties": { "Name": "Ignace" }, "geometry": { "type": "Point", "coordinates": [-91.988974, 49.448361] } }
+  ]
+}
